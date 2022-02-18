@@ -22,4 +22,6 @@ highlight def link corpusExpectedResultDelimiter Comment
 highlight def link corpusNodeDelimiter Comment
 highlight def link corpusNodeName Function
 
+syntax sync fromstart
+
 let b:current_syntax = "corpus"
