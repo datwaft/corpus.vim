@@ -19,5 +19,5 @@ This plugin assumes that the corpus files have the extension `.corpus`.
 
 - [x] Syntax highlighting
   - [ ] Support for field names
-- [ ] Indentation
+- [x] Indentation
 - [ ] Folding
