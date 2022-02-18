@@ -14,10 +14,3 @@ This plugin assumes that the corpus files have the extension `.corpus`.
 ![image](https://user-images.githubusercontent.com/37723586/154622525-7e9d34ba-9f5a-45d7-be50-16447533d8f3.png)
   
 </details>
-
-## TODO
-
-- [x] Syntax highlighting
-  - [ ] Support for field names
-- [x] Indentation
-- [ ] Folding
